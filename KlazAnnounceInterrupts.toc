@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: Klaz|cff1994ffAnnounceInterrupts|r
+## Author: Klaz
+## Notes: Announce to party/raid when you successfully interrupt a cast.
+
+Core\Config.lua
+Core\Functions.lua
+
+Modules\Interrupt.lua
